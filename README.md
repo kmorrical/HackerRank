@@ -15,3 +15,5 @@ hacker rank compare the triplets in JS
 <img src="http://i.imgur.com/QTQvRRp.png">
 <img src="http://i.imgur.com/i6oyfyR.png">
 <img src="http://i.imgur.com/wFIyMht.png">
+<img src="http://i.imgur.com/v3RjuwZ.png">
+<img src="http://i.imgur.com/Nro6HyI.png">
